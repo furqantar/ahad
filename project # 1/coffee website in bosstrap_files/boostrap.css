@@ -1,0 +1,305 @@
+/* .container-fluid{
+    background-color: rgb(182, 171, 192);
+}  */
+
+.nav-item a{
+    color: white;
+    font-size: 20px;
+
+
+}
+
+.nav-item a:hover{
+    color:rgb(189, 104, 30);
+}
+.carousel-caption{
+    margin-bottom: 140px;
+}
+
+.mb-3 i{
+    color: sandybrown;
+    font-size: 27px;
+}
+
+.mb-3 h5{
+    line-height: 40px;}
+
+
+    .btn button{
+        padding: 8px;
+        background-color: rgb(43, 19, 2);
+        color: white;
+        border: none;
+    }
+
+     .btns button{
+        margin-left: 40px;
+        padding: 8px;
+        background-color: sandybrown;
+        border: none;
+    }
+
+
+
+
+@media(max-width:770px){
+    .carousel-caption{
+        margin-bottom: 150px;
+    }
+}
+
+.pic img{
+    margin-left: 70px;
+}
+
+.letr{
+    /* margin-left: -40px; */
+    margin-top: 30px;
+}
+
+.letr p{
+margin-top: 20px;
+}
+.letr i{
+    padding: 10px;
+    background-color: rgb(204, 110, 28);
+    border-radius: 50%;
+     font-size: 20px;
+    color: black;    
+    margin-left: -50px;
+}
+
+label{
+    font-size: 23px;
+    color: rgba(12, 5, 0, 0.877);
+     
+}
+.letr h5{
+    font-size: 25px;
+    margin-left: 0px;
+    margin-top: -30px;
+}
+.letr p{
+    font-size: 17px;
+    margin-left: -50px;
+}
+
+@media(max-width:430px){
+    .pic img{
+         width: 330px;
+         height: 450px;
+         margin-left: 20px;
+    }
+
+    .letr{
+        margin-left: 30px;
+
+    }
+
+    .letr i{
+        margin-left: 5px;
+    }
+    .letr p{
+        margin-left: 10px;
+    }
+    .letr h5{
+        margin-left: 50px;
+    }
+}
+
+.tions{
+  background:linear-gradient(rgba(5, 0, 0, 0.938), rgba(22, 2, 2, 0.918)),url(bg.jpg);;
+    height: 400px;
+    margin-top: 100px;
+   background-color: cadetblue;
+}
+
+.ahad{   
+    
+text-align: center;
+}
+
+.ahad h1 {
+    padding-top: 50px;
+    font-weight: bold;
+    color: sandybrown;
+}
+
+.ahad h2{
+    font-size: 40px;
+    color: white;
+}
+
+.ahad h4{
+    line-height: 30px;
+    color: white;
+}
+
+.ahad input{
+    margin: 15px;
+    padding: 15px;
+}
+
+.ahad button{
+    border: none;
+margin-left: -20px;
+    padding: 16px;
+    color: black;
+    font-size: 17px;
+    background-color: sandybrown;
+  font-family: sans-serif;
+ 
+}
+
+
+
+.table h1{
+    color: sandybrown;
+    font-size: 60px;
+}
+
+.table h2{
+    color: white;
+}
+
+.table p{
+    color: white;
+}
+
+.table h5{
+    color: white;
+}
+
+
+i{
+    font-size: 25px;
+    color: rgba(216, 102, 9, 0.87);
+}
+
+.book h1{
+    padding-top: 30px;
+    color: white;
+}
+
+.left{
+   background: linear-gradient(rgba(5, 0, 0, 0.938), rgba(22, 2, 2, 0.918)),url(bg.jpg);
+}
+
+.cof p{
+    margin-left: 30px;
+}
+
+.cof h2{
+    margin-left: 30px;
+}
+
+.pan{
+    width: 110px;
+    background-color: sandybrown;
+   color: black;
+}
+
+.clint h3{
+    margin-left: 20px;
+}
+
+.clint p{
+    margin-left: 20px;
+    font-size: 17px;
+    color: gray;
+}
+
+.index{
+    background:linear-gradient(rgba(5, 0, 0, 0.938), rgba(22, 2, 2, 0.918)),url(bg.jpg) ;
+}
+.ions{
+    margin-left: 20px;
+    line-height: 30px;
+}
+.ions i{
+    font-size: 20px;
+    color: white;
+}
+
+.ions label{
+    font-size: 16px;
+}
+
+.don i{
+
+    padding: 10px;
+    margin: 10px;
+    color: white;
+  
+    border: 2px solid white;
+}
+
+.don i:hover{
+    color: black;
+    background-color: white;
+
+}
+
+.butt input{
+    background-color: wheat;
+border: none;
+padding: 8px;
+}
+
+.butt button{
+    margin-left: -10px;
+    background-color: sandybrown;
+    border: none;
+padding: 9px;
+
+}
+
+label{
+     margin-left: 20px;
+    color: white;
+}
+
+.us h2{
+    color: white;
+}
+.us p{
+ color: white;
+}
+
+.us h5{
+    margin-left: 20px;
+    color: white;
+}
+
+@media(max-width:430px){
+    h2{
+        margin-left: 40px;
+    }
+    .ions{
+        margin-left: 30px;
+    }
+    label{
+        margin-left: 10px;
+    }
+
+    .us P{
+        margin-left: 40px;
+    }
+     .don{
+        margin-left: 40px;
+     }
+
+     .us h5{
+        margin-left: 40px;
+     }
+
+     .butt{
+        margin-left: 40px;
+     }
+
+}
+
+.pop{
+    font-size: 18px;
+    color: sandybrown;
+}
